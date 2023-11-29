@@ -1,4 +1,4 @@
-# Flutter Bottom Navigation Bar With flutter_bloc package and Cubit
+# Flutter Bottom Navigation Bar With flutter_bloc Package and Cubit
 ## [Tutorial Video on Youtube](https://youtu.be/tIAmJO4aSjA)
 ![maxresdefault](https://github.com/AmirBayat0/Flutter-BottomNavigationBar-With-BLOC/assets/91388754/8698f294-7050-4b8f-854b-ec4eb688d84b)
 
